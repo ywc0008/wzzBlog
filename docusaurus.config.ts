@@ -52,9 +52,12 @@ const config: Config = {
         theme: {
           customCss: "./src/css/custom.css",
         },
-        gtag: {
-          trackingID: "GTM-583X5B8R",
-          anonymizeIP: true,
+        // gtag: {
+        //   trackingID: "GTM-583X5B8R",
+        //   anonymizeIP: true,
+        // },
+        googleTagManager: {
+          containerId: "GTM-583X5B8R",
         },
       } satisfies Preset.Options,
     ],
