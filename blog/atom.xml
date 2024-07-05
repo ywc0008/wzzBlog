@@ -1,117 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ywc0008.github.io/wzzBlog/blog</id>
-    <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <title>wzzBlog Blog</title>
+    <updated>2024-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ywc0008.github.io/wzzBlog/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>wzzBlog Blog</subtitle>
     <icon>https://ywc0008.github.io/wzzBlog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://ywc0008.github.io/wzzBlog/blog/welcome</id>
         <link href="https://ywc0008.github.io/wzzBlog/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://ywc0008.github.io/wzzBlog/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="Facebook" term="Facebook"/>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <updated>2024-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요!]]></summary>
+        <content type="html"><![CDATA[<p>안녕하세요!</p>
+<p>제가 좋아하는 공부를 하면서 배운 내용을 공유하기 위해서 만든 블로그입니다.</p>
+<p>주로 프론트엔드 개발, 알고리즘 풀이, 일상을 포스팅 할 거에요.</p>]]></content>
+        <category label="일상" term="일상"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://ywc0008.github.io/wzzBlog/blog/mdx-blog-post</id>
-        <link href="https://ywc0008.github.io/wzzBlog/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greetings!123]]></title>
-        <id>https://ywc0008.github.io/wzzBlog/blog/greetings</id>
-        <link href="https://ywc0008.github.io/wzzBlog/blog/greetings"/>
-        <updated>2021-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
-        <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p>
-<p>Feel free to play around and edit this post as much as you like.</p>]]></content>
-        <author>
-            <name>Joel Marcey</name>
-            <uri>https://github.com/JoelMarcey</uri>
-        </author>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="greetings" term="greetings"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://ywc0008.github.io/wzzBlog/blog/long-blog-post</id>
-        <link href="https://ywc0008.github.io/wzzBlog/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://ywc0008.github.io/wzzBlog/blog/first-blog-post</id>
-        <link href="https://ywc0008.github.io/wzzBlog/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <title type="html"><![CDATA[53회 SQLD 시험 합격 후기]]></title>
+        <id>https://ywc0008.github.io/wzzBlog/blog/53회-SQLD-시험-합격-후기</id>
+        <link href="https://ywc0008.github.io/wzzBlog/blog/53회-SQLD-시험-합격-후기"/>
+        <updated>2024-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SQLD란?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld란">SQLD란?<a class="hash-link" aria-label="SQLD란?에 대한 직접 링크" title="SQLD란?에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld%EB%9E%80">​</a></h2>
+<p>SQLD(Structured Query Language Developer) 시험은 데이터베이스 관련 업무를 수행하는 개발자에게 필요한 SQL 사용 능력을 검증하는 시험이다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="응시-계기">응시 계기<a class="hash-link" aria-label="응시 계기에 대한 직접 링크" title="응시 계기에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%9D%91%EC%8B%9C-%EA%B3%84%EA%B8%B0">​</a></h2>
+<p>마지막 학기 데이터베이스 수업을 들으면서 SQL과 관련된 자격증이 있다는 것을 알게 되었다. 수업도 들을겸 겸사겸사 자격증도 같이 따면 좋을 거 같아 응시하게 됐다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld-공부-방법">SQLD 공부 방법<a class="hash-link" aria-label="SQLD 공부 방법에 대한 직접 링크" title="SQLD 공부 방법에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95">​</a></h2>
+<p>먼저 검색을 통해 SQLD 시험에 대한 정보를 찾아보았다.</p>
+<p>합격한 사람들의 글의 공통점이 노랭이를 공부했다는 것이다.</p>
+<p>개념 공부는 학교 공부와 홍쌤의 SQLD 강의를 들었다.</p>
+<p>홍썜 강의는 유튜브에서 강의가 공개 되어 있고, 강의 교재도 네이버 카페 가입하면 받을 수 있었다.(2024년 5월 카페 공지로 강의 교재 유료 전환 공지가 올라왔다...)</p>
+<p><a href="https://www.youtube.com/@hdatalab" target="_blank" rel="noopener noreferrer">홍쌤 유튜브</a></p>
+<p>그렇게 홍썜 무료 강의 + 노랭이 1회독 하고 시험을 쳤다.</p>
+<p>결과적으로 말하자면 기출도 잘 찾아보면 복원 문제들이 있다고 한다.</p>
+<p>개념 공부 + 노랭이 다회독 + 기출 복원 = 무적이라고 생각한다.</p>
+<p>나는 시험을 치고 나서 기출 복원 문제가 있다는 것을 알게 됐고 후기들 중에서 기출에서 많이 나왔다고 한다.</p>
+<p>그리고 노랭이를 풀다 보면 긴 sql 보기가 머리를 아프게 하는데 그런 문제는 풀면 좋겠지만 못풀어도 좌절하지 않아도 된다.</p>
+<p>노랭이 자체가 SQLP 시험자도 보는 책이라서 아마 SQLP에서 나올만한 문제들이 긴 SQL 보기들로 된 문제였던 거 같다.</p>
+<p>실제 시험에선 긴 SQL 보기가 나오지 않았다.</p>
+<p>그리고 노랭이 문제와 똑같은 문제도 출제되었다.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="시험-후기">시험 후기<a class="hash-link" aria-label="시험 후기에 대한 직접 링크" title="시험 후기에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0">​</a></h2>
+<p>시험 전날까지 개념과 노랭이 풀면서 100점 맞는 시험이 아니라 60점만 넘기면 되는 시험이다라고 생각하며 풀 수 있는 문제를 풀고 나오자라는 마인드로 시험을 보러 갔다.</p>
+<p>생각보다 처음 보는 유형이 많았고, 보기의 길이는 짧았다.</p>
+<p>50문제를 모두 풀고 검토까지 하고 나오는데 1시간 정도 걸렸다.</p>
+<p>시험 본 느낌이 좋았고 다행히 합격도 하게 됐다.</p>
+<p><img decoding="async" loading="lazy" alt="sqld 점수" src="https://ywc0008.github.io/wzzBlog/assets/images/sqld-09c779aaee393b37f915b2a8ed5e4d60.png" width="966" height="454" class="img_ev3q"></p>]]></content>
+        <category label="일상" term="일상"/>
+        <category label="SQLD" term="SQLD"/>
     </entry>
 </feed>
