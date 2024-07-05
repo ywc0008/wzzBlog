@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "wzzBlog",
+  tagline: "프론트엔드, 알고리즘, 일상",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "ywc0008", // Usually your GitHub org/user name.
+  projectName: "wzzBlog", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -25,8 +25,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "ko",
+    locales: ["ko"],
   },
 
   presets: [
@@ -58,21 +58,21 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "WzzBlog",
       logo: {
-        alt: "My Site Logo",
+        alt: "wzz Site Logo",
         src: "img/logo.svg",
       },
       items: [
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Tutorial",
+          position: "right",
+          label: "Algorithms",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Blog", position: "right" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/ywc0008",
           label: "GitHub",
           position: "right",
         },
@@ -85,28 +85,28 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "Algorithms",
               to: "/docs/intro",
             },
           ],
         },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
+        // {
+        //   title: "Community",
+        //   items: [
+        //     {
+        //       label: "Stack Overflow",
+        //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+        //     },
+        //     {
+        //       label: "Discord",
+        //       href: "https://discordapp.com/invite/docusaurus",
+        //     },
+        //     {
+        //       label: "Twitter",
+        //       href: "https://twitter.com/docusaurus",
+        //     },
+        //   ],
+        // },
         {
           title: "More",
           items: [
@@ -116,12 +116,12 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/ywc0008",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Wzz. All Rights Reserved.`,
     },
     prism: {
       theme: prismThemes.github,
