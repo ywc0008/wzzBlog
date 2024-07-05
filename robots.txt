@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ywc0008.github.io/sitemap.xml
+Sitemap: https://ywc0008.github.io/wzzBlog/sitemap.xml
