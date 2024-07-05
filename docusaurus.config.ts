@@ -8,7 +8,7 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://ywc0008.github.io/",
+  url: "https://ywc0008.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/wzzBlog/",
@@ -56,6 +56,8 @@ const config: Config = {
     ],
   ],
   themeConfig: {
+    // Replace with your project's social card
+    image: "img/docusaurus-social-card.jpg",
     // Declare some <meta> tags
     metadata: [
       { name: "keywords", content: "dev, algorithms, blog" },
@@ -65,9 +67,6 @@ const config: Config = {
       },
       // { name: "twitter:card", content: "summary_large_image" },
     ],
-
-    // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "WzzBlog",
       logo: {
