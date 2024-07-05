@@ -52,10 +52,10 @@ const config: Config = {
         theme: {
           customCss: "./src/css/custom.css",
         },
-        gtag: {
-          trackingID: "G-RRC6ZVV615",
-          anonymizeIP: true,
-        },
+        // gtag: {
+        //   trackingID: "G-RRC6ZVV615",
+        //   anonymizeIP: true,
+        // },
         googleTagManager: {
           containerId: "GTM-583X5B8R",
         },
