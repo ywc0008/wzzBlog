@@ -29,6 +29,8 @@ const config: Config = {
     locales: ["ko"],
   },
 
+  trailingSlash: false,
+
   presets: [
     [
       "classic",
