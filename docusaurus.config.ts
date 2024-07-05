@@ -53,8 +53,17 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
+    // Declare some <meta> tags
+    metadata: [
+      { name: "keywords", content: "dev, algorithms, blog" },
+      {
+        name: "google-site-verification",
+        content: "QQK-ST_RW7AwzeqkSJhBAmJhyzvCBHq4_bSv6qM14hE",
+      },
+      // { name: "twitter:card", content: "summary_large_image" },
+    ],
+
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
