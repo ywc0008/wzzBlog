@@ -103,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: "Algorithms",
-              to: "/docs/intro",
+              to: "/docs/category/algorithms",
             },
           ],
         },
