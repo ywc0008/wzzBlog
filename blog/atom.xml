@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ywc0008.github.io/blog</id>
+    <id>https://ywc0008.github.io/wzzBlog/blog</id>
     <title>wzzBlog Blog</title>
     <updated>2024-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ywc0008.github.io/blog"/>
+    <link rel="alternate" href="https://ywc0008.github.io/wzzBlog/blog"/>
     <subtitle>wzzBlog Blog</subtitle>
-    <icon>https://ywc0008.github.io/img/favicon.ico</icon>
+    <icon>https://ywc0008.github.io/wzzBlog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://ywc0008.github.io/blog/welcome</id>
-        <link href="https://ywc0008.github.io/blog/welcome"/>
+        <id>https://ywc0008.github.io/wzzBlog/blog/welcome</id>
+        <link href="https://ywc0008.github.io/wzzBlog/blog/welcome"/>
         <updated>2024-07-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[안녕하세요!]]></summary>
         <content type="html"><![CDATA[<p>안녕하세요!</p>
@@ -20,15 +20,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[53회 SQLD 시험 합격 후기]]></title>
-        <id>https://ywc0008.github.io/blog/53회-SQLD-시험-합격-후기</id>
-        <link href="https://ywc0008.github.io/blog/53회-SQLD-시험-합격-후기"/>
+        <id>https://ywc0008.github.io/wzzBlog/blog/53회-SQLD-시험-합격-후기</id>
+        <link href="https://ywc0008.github.io/wzzBlog/blog/53회-SQLD-시험-합격-후기"/>
         <updated>2024-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[SQLD란?]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld란">SQLD란?<a class="hash-link" aria-label="SQLD란?에 대한 직접 링크" title="SQLD란?에 대한 직접 링크" href="https://ywc0008.github.io/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld%EB%9E%80">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld란">SQLD란?<a class="hash-link" aria-label="SQLD란?에 대한 직접 링크" title="SQLD란?에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld%EB%9E%80">​</a></h2>
 <p>SQLD(Structured Query Language Developer) 시험은 데이터베이스 관련 업무를 수행하는 개발자에게 필요한 SQL 사용 능력을 검증하는 시험이다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="응시-계기">응시 계기<a class="hash-link" aria-label="응시 계기에 대한 직접 링크" title="응시 계기에 대한 직접 링크" href="https://ywc0008.github.io/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%9D%91%EC%8B%9C-%EA%B3%84%EA%B8%B0">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="응시-계기">응시 계기<a class="hash-link" aria-label="응시 계기에 대한 직접 링크" title="응시 계기에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%9D%91%EC%8B%9C-%EA%B3%84%EA%B8%B0">​</a></h2>
 <p>마지막 학기 데이터베이스 수업을 들으면서 SQL과 관련된 자격증이 있다는 것을 알게 되었다. 수업도 들을겸 겸사겸사 자격증도 같이 따면 좋을 거 같아 응시하게 됐다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld-공부-방법">SQLD 공부 방법<a class="hash-link" aria-label="SQLD 공부 방법에 대한 직접 링크" title="SQLD 공부 방법에 대한 직접 링크" href="https://ywc0008.github.io/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sqld-공부-방법">SQLD 공부 방법<a class="hash-link" aria-label="SQLD 공부 방법에 대한 직접 링크" title="SQLD 공부 방법에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#sqld-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95">​</a></h2>
 <p>먼저 검색을 통해 SQLD 시험에 대한 정보를 찾아보았다.</p>
 <p>합격한 사람들의 글의 공통점이 노랭이를 공부했다는 것이다.</p>
 <p>개념 공부는 학교 공부와 홍쌤의 SQLD 강의를 들었다.</p>
@@ -42,12 +42,12 @@
 <p>노랭이 자체가 SQLP 시험자도 보는 책이라서 아마 SQLP에서 나올만한 문제들이 긴 SQL 보기들로 된 문제였던 거 같다.</p>
 <p>실제 시험에선 긴 SQL 보기가 나오지 않았다.</p>
 <p>그리고 노랭이 문제와 똑같은 문제도 출제되었다.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="시험-후기">시험 후기<a class="hash-link" aria-label="시험 후기에 대한 직접 링크" title="시험 후기에 대한 직접 링크" href="https://ywc0008.github.io/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="시험-후기">시험 후기<a class="hash-link" aria-label="시험 후기에 대한 직접 링크" title="시험 후기에 대한 직접 링크" href="https://ywc0008.github.io/wzzBlog/blog/53%ED%9A%8C-SQLD-%EC%8B%9C%ED%97%98-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0#%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0">​</a></h2>
 <p>시험 전날까지 개념과 노랭이 풀면서 100점 맞는 시험이 아니라 60점만 넘기면 되는 시험이다라고 생각하며 풀 수 있는 문제를 풀고 나오자라는 마인드로 시험을 보러 갔다.</p>
 <p>생각보다 처음 보는 유형이 많았고, 보기의 길이는 짧았다.</p>
 <p>50문제를 모두 풀고 검토까지 하고 나오는데 1시간 정도 걸렸다.</p>
 <p>시험 본 느낌이 좋았고 다행히 합격도 하게 됐다.</p>
-<p><img decoding="async" loading="lazy" alt="sqld 점수" src="https://ywc0008.github.io/assets/images/sqld-09c779aaee393b37f915b2a8ed5e4d60.png" width="966" height="454" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="sqld 점수" src="https://ywc0008.github.io/wzzBlog/assets/images/sqld-09c779aaee393b37f915b2a8ed5e4d60.png" width="966" height="454" class="img_ev3q"></p>]]></content>
         <category label="일상" term="일상"/>
         <category label="SQLD" term="SQLD"/>
     </entry>

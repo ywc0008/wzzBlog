@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome","unlisted":false},{"title":"53\ud68c SQLD \uc2dc\ud5d8 \ud569\uaca9 \ud6c4\uae30","permalink":"/blog/53\ud68c-SQLD-\uc2dc\ud5d8-\ud569\uaca9-\ud6c4\uae30","unlisted":false}]}')}}]);
