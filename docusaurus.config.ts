@@ -67,7 +67,7 @@ const config: Config = {
     image: "img/docusaurus-social-card.jpg",
     // Declare some <meta> tags
     metadata: [
-      { name: "keywords", content: "dev, algorithms, blog" },
+      { name: "keywords", content: "dev, algorithms, wzzblog" },
       {
         name: "google-site-verification",
         content: "QQK-ST_RW7AwzeqkSJhBAmJhyzvCBHq4_bSv6qM14hE",
