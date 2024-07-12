@@ -1,6 +1,8 @@
 {
   "label": "프로그래머스",
   "position": 3,
+  "collapsible": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "프로그래머스 문제를 Javascript로 풀고 있습니다."

@@ -83,7 +83,13 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "Dev",
+          position: "right",
+          label: "Dev",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "Algorithms",
           position: "right",
           label: "Algorithms",
         },

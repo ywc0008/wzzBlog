@@ -1,0 +1,10 @@
+{
+  "label": "Dev",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "개발 관련 내용을 정리합니다."
+  }
+}

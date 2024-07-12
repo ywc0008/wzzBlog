@@ -1,7 +1,7 @@
 {
   "label": "Algorithms",
   "position": 1,
-  "collapsible": false,
+  "collapsible": true,
   "collapsed": false,
   "link": {
     "type": "generated-index",
